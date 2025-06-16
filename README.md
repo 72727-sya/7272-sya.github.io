@@ -72,8 +72,7 @@
 ![Esponja verde](FOTOS%20PEC/esponja.jpg)
 
   <li>Malla plástica</li> 
-  
-![Malla plástica](FOTOS%20PEC/malla.jpg)
+  ![Mi imagen](imageenes/11b877fdc0fb6b78582d30e9d8d2c678.jpg)
 
   <li>Tubo de PVC (4 in)</li> 
   
