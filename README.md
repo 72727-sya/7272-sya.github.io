@@ -81,7 +81,7 @@
 
   <li>Malla plástica</li> 
 
-![11b877fdc0fb6b78582d30e9d8d2c678](https://github.com/user-attachments/assets/dd99d382-1618-4974-a28d-57a919c9d4f1)
+![11b877fdc0fb6b78582d30e9d8d2c678](11b877fdc0fb6b78582d30e9d8d2c678.jpg)
 
   
 
