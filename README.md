@@ -6,8 +6,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Proyecto PEC - Agua Pluvial y Residual</title>
   <style> 
-   
-  ![1000216958](https://github.com/user-attachments/assets/c04b2f2c-3715-47b1-98e7-b0e2900af408)
 
   body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; color: #333; }
     header, section { padding: 20px; max-width: 900px; margin: auto; }
@@ -23,7 +21,10 @@
     <h1>Proyecto PEC</h1>
     <p><strong>"Captación y tratamiento del agua pluvial y residual para su reuso en servicios al público con contacto directo"</strong></p>
   </header>  <section>
-    <h2>¿Cómo inició?</h2>
+    
+  ![1000216958](https://github.com/user-attachments/assets/444f11bd-c2db-4bcc-b06b-5d401b118e98)
+
+  <h2>¿Cómo inició?</h2>
     <p>El proyecto surgió ante la creciente crisis hídrica que afecta a nuestra comunidad. En respuesta, el grupo de cuarto semestre de la EPOANSFP decidió actuar, diseñando un filtro casero para reutilizar el agua pluvial y gris. Esta acción busca reducir el desperdicio del agua y concientizar sobre su uso responsable, utilizando materiales accesibles y restaurando un carro móvil para su implementación.</p><h2>¿Quiénes han participado?</h2>
 <ul>
   <li>Estudiantes del cuarto semestre, grupo II.</li>
