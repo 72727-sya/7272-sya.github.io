@@ -22,7 +22,10 @@
     <p><strong>"Captación y tratamiento del agua pluvial y residual para su reuso en servicios al público con contacto directo"</strong></p>
   </header>  <section>
     
-  ![1000216958](https://github.com/user-attachments/assets/444f11bd-c2db-4bcc-b06b-5d401b118e98)
+  
+    ![IMG-20250507-WA0020](https://github.com/user-attachments/assets/b65b3b6e-5573-41cc-a89d-e5b22aece33f)
+
+  
 
   <h2>¿Cómo inició?</h2>
     <p>El proyecto surgió ante la creciente crisis hídrica que afecta a nuestra comunidad. En respuesta, el grupo de cuarto semestre de la EPOANSFP decidió actuar, diseñando un filtro casero para reutilizar el agua pluvial y gris. Esta acción busca reducir el desperdicio del agua y concientizar sobre su uso responsable, utilizando materiales accesibles y restaurando un carro móvil para su implementación.</p><h2>¿Quiénes han participado?</h2>
