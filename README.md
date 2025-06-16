@@ -22,8 +22,8 @@
     <p><strong>"Captación y tratamiento del agua pluvial y residual para su reuso en servicios al público con contacto directo"</strong></p>
   </header>  <section>
     
-  
-    ![IMG-20250507-WA0020](https://github.com/user-attachments/assets/b65b3b6e-5573-41cc-a89d-e5b22aece33f)
+
+ ![IMG-20250507-WA0020](https://github.com/user-attachments/assets/b65b3b6e-5573-41cc-a89d-e5b22aece33f)
 
   
 
