@@ -7,7 +7,7 @@
   <title>Proyecto PEC - Agua Pluvial y Residual</title>
   <style> 
     
-  ![1000216958](https://github.com/user-attachments/assets/c04b2f2c-3715-47b1-98e7-b0e2900af408)
+    ![1000216958](https://github.com/user-attachments/assets/c04b2f2c-3715-47b1-98e7-b0e2900af408)
 
     body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; color: #333; }
     header, section { padding: 20px; max-width: 900px; margin: auto; }
