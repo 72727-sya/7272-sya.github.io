@@ -39,54 +39,43 @@
 <h2>10 materiales que se han ocupado</h2>
 <ul>
   <li>Arena fina</li> 
-
-  ![56da15fe6d251d19a604f34b2dd51edd](https://github.com/user-attachments/assets/ddc1365d-d817-4038-a46f-59238dd9ad87)
-
+<a href="https://github.com/user-attachments/assets/ddc1365d-d817-4038-a46f-59238dd9ad87"> <img src="imagen.jpg"/> </a>
+ 
 
   <li>Gravilla gruesa</li> 
-  
-  ![7ea131a30d68512228f7790e96559029](https://github.com/user-attachments/assets/a685f669-058e-4436-878d-848309eb8b38)
+<a href="https://github.com/user-attachments/assets/a685f669-058e-4436-878d-848309eb8b38"> <img src="imagen.jpg"/> </a>
 
 
   <li>Carbón activado</li> 
+<a href="https://github.com/user-attachments/assets/d339289d-bb50-44e8-a0ff-ab4dee640d38"> <img src="imagen.jpg"/> </a>
   
-  ![8123799545bfaf22a5c38163bef19fcc](https://github.com/user-attachments/assets/d339289d-bb50-44e8-a0ff-ab4dee640d38)
-
 
   <li>Cobre</li> 
-  
- ![30dfbf76e4d3b9fdf5ba3354e1c39e9d.jpg](https://github.com/user-attachments/assets/5c7543e7-482b-4642-919c-671c4076ca9a)
-
+<a href="https://github.com/user-attachments/assets/5c7543e7-482b-4642-919c-671c4076ca9a"> <img src="imagen.jpg"/> </a>
 
   <li>Alumbre</li> 
-  
-  ![3afde8a37fc77e17c3f5bc2f3eeffe2e](https://github.com/user-attachments/assets/ab7f9224-0f6e-4fde-9cef-8726d0137d2c)
-
+<a href="https://github.com/user-attachments/assets/ab7f9224-0f6e-4fde-9cef-8726d0137d2c"> <img src="imagen.jpg"/> </a>
 
   <li>Gasas</li> 
+<a href="https://github.com/user-attachments/assets/867bb33b-3da2-4bd4-8e0b-129aa1a3dcd0"> <img src="imagen.jpg"/> </a>
   
- ![a8c336fd957ba4da9dc0aa2389bf99ac](https://github.com/user-attachments/assets/867bb33b-3da2-4bd4-8e0b-129aa1a3dcd0)
-
 
   <li>Algodón</li> 
+<a href="https://github.com/user-attachments/assets/4f860b94-3992-447b-b4f0-73832b177eb4"> <img src="imagen.jpg"/> </a>
   
-![841bd039204469e0644ef3f6ff13dc3f](https://github.com/user-attachments/assets/4f860b94-3992-447b-b4f0-73832b177eb4)
+
 
   
   <li>Esponja verde</li>
+<a href="https://github.com/user-attachments/assets/e2334544-646c-4eb1-ba1e-2e15aea48aea"> <img src="imagen.jpg"/> </a>
   
-![1ab8a05dffb90a0743b52766218ee024](https://github.com/user-attachments/assets/e2334544-646c-4eb1-ba1e-2e15aea48aea)
-
 
   <li>Malla plástica</li> 
+<a href="11b877fdc0fb6b78582d30e9d8d2c678](11b877fdc0fb6b78582d30e9d8d2c678.jpg)"> <img src="imagen.jpg"/> </a>
 
-![11b877fdc0fb6b78582d30e9d8d2c678](11b877fdc0fb6b78582d30e9d8d2c678.jpg)
-
-  
 
   <li>Tubo de PVC (4 in)</li> 
-  
-  ![1a3fffca50f6f488a824758d81a6b36a](https://github.com/user-attachments/assets/3bb9c7d3-4e34-4e01-a345-68fc03f5f715)
+<a href="https://github.com/user-attachments/assets/3bb9c7d3-4e34-4e01-a345-68fc03f5f715"> <img src="imagen.jpg"/> </a>
 
 
 </ul>
