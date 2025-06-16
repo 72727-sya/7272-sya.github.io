@@ -6,8 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Proyecto PEC - Agua Pluvial y Residual</title>
   <style> 
-  
-  ![1000216958](https://github.com/user-attachments/assets/c04b2f2c-3715-47b1-98e7-b0e2900af408)
+    ![1000216958](https://github.com/user-attachments/assets/c04b2f2c-3715-47b1-98e7-b0e2900af408)
 
   body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; color: #333; }
     header, section { padding: 20px; max-width: 900px; margin: auto; }
@@ -36,16 +35,13 @@
 <h2>10 materiales que se han ocupado</h2>
 <ul>
   <li>Arena fina</li> 
-  
 ![1000217007](https://github.com/user-attachments/assets/ab8324a2-e40d-441d-a0c9-a324168d149f)
 
   <li>Gravilla gruesa</li> 
-  
-![1000217008](https://github.com/user-attachments/assets/2f85c92f-c6d0-4fbd-b14c-111cbcaecc05)
+  ![1000217008](https://github.com/user-attachments/assets/2f85c92f-c6d0-4fbd-b14c-111cbcaecc05)
 
   <li>Carbón activado</li> 
-  
-![1000217009](https://github.com/user-attachments/assets/b07404c0-7309-42ea-a9c8-38bd7d4f5807)
+  ![1000217009](https://github.com/user-attachments/assets/b07404c0-7309-42ea-a9c8-38bd7d4f5807)
 
   <li>Cobre</li> 
   
