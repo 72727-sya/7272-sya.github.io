@@ -41,7 +41,7 @@
 <ul>
   <li>Arena fina</li> 
 
-  ![Arena fina](FOTOS%20PEC/arena.jpg)
+  ![Arena fina](imageenes/arena.jpg)
 
   <li>Gravilla gruesa</li> 
   
