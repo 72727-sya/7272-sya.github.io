@@ -56,7 +56,7 @@
 
   <li>Cobre</li> 
   
- ![30dfbf76e4d3b9fdf5ba3354e1c39e9d](https://github.com/user-attachments/assets/5c7543e7-482b-4642-919c-671c4076ca9a)
+ ![30dfbf76e4d3b9fdf5ba3354e1c39e9d.jpg](https://github.com/user-attachments/assets/5c7543e7-482b-4642-919c-671c4076ca9a)
 
 
   <li>Alumbre</li> 
