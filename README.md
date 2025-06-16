@@ -41,43 +41,43 @@
 <ul>
   <li>Arena fina</li> 
 
-  ![1000217007](https://github.com/user-attachments/assets/ab8324a2-e40d-441d-a0c9-a324168d149f)
+  ![Arena fina](FOTOS%20PEC/arena.jpg)
 
   <li>Gravilla gruesa</li> 
   
-  ![1000217008](https://github.com/user-attachments/assets/2f85c92f-c6d0-4fbd-b14c-111cbcaecc05)
+  ![Gravilla gruesa](FOTOS%20PEC/gravilla.jpg)
 
   <li>Carbón activado</li> 
   
-  ![1000217009](https://github.com/user-attachments/assets/b07404c0-7309-42ea-a9c8-38bd7d4f5807)
+  ![Carbón activado](FOTOS%20PEC/carbon.jpg)
 
   <li>Cobre</li> 
   
-![1000217010](https://github.com/user-attachments/assets/5225c8c1-5819-4bcf-89ec-21817fea855b)
+ ![Cobre](FOTOS%20PEC/cobre.jpg) 
 
   <li>Alumbre</li> 
   
-![1000217011](https://github.com/user-attachments/assets/4b2b312f-2574-4dd6-9d9e-9757e009b120)
+  ![Alumbre](FOTOS%20PEC/alumbre.jpg)
 
   <li>Gasas</li> 
   
-![1000217012](https://github.com/user-attachments/assets/38e1d494-64a0-4acd-a0e7-6deedcea2e20)
+ ![Gasas](FOTOS%20PEC/gasas.jpg)
 
   <li>Algodón</li> 
   
-![1000217013](https://github.com/user-attachments/assets/9e2b337c-fb02-47d4-a6b3-6b09531f5303)
-
+![Algodón](FOTOS%20PEC/algodon.jpg)
+  
   <li>Esponja verde</li>
   
-![1000217014](https://github.com/user-attachments/assets/2503f66d-5783-46c7-be9f-359d257cbfc5)
+![Esponja verde](FOTOS%20PEC/esponja.jpg)
 
   <li>Malla plástica</li> 
   
-![1000217015](https://github.com/user-attachments/assets/e19f4653-bf0d-4dac-9412-a656ddb4b36c)
+![Malla plástica](FOTOS%20PEC/malla.jpg)
 
   <li>Tubo de PVC (4 in)</li> 
   
-  ![1000217016](https://github.com/user-attachments/assets/b319c79e-16d4-4e75-af7e-0553ed7f5567)
+  ![Tubo PVC](FOTOS%20PEC/tubo.jpg)
 
 </ul>
 
