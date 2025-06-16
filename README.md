@@ -41,43 +41,54 @@
 <ul>
   <li>Arena fina</li> 
 
-  ![Arena fina](imageenes/arena.jpg)
+  ![56da15fe6d251d19a604f34b2dd51edd](https://github.com/user-attachments/assets/ddc1365d-d817-4038-a46f-59238dd9ad87)
+
 
   <li>Gravilla gruesa</li> 
   
-  ![Gravilla gruesa](FOTOS%20PEC/gravilla.jpg)
+  ![7ea131a30d68512228f7790e96559029](https://github.com/user-attachments/assets/a685f669-058e-4436-878d-848309eb8b38)
+
 
   <li>Carbón activado</li> 
   
-  ![Carbón activado](FOTOS%20PEC/carbon.jpg)
+  ![8123799545bfaf22a5c38163bef19fcc](https://github.com/user-attachments/assets/d339289d-bb50-44e8-a0ff-ab4dee640d38)
+
 
   <li>Cobre</li> 
   
- ![Cobre](FOTOS%20PEC/cobre.jpg) 
+ ![30dfbf76e4d3b9fdf5ba3354e1c39e9d](https://github.com/user-attachments/assets/5c7543e7-482b-4642-919c-671c4076ca9a)
+
 
   <li>Alumbre</li> 
   
-  ![Alumbre](FOTOS%20PEC/alumbre.jpg)
+  ![3afde8a37fc77e17c3f5bc2f3eeffe2e](https://github.com/user-attachments/assets/ab7f9224-0f6e-4fde-9cef-8726d0137d2c)
+
 
   <li>Gasas</li> 
   
- ![Gasas](FOTOS%20PEC/gasas.jpg)
+ ![a8c336fd957ba4da9dc0aa2389bf99ac](https://github.com/user-attachments/assets/867bb33b-3da2-4bd4-8e0b-129aa1a3dcd0)
+
 
   <li>Algodón</li> 
   
-![Algodón](FOTOS%20PEC/algodon.jpg)
+![841bd039204469e0644ef3f6ff13dc3f](https://github.com/user-attachments/assets/4f860b94-3992-447b-b4f0-73832b177eb4)
+
   
   <li>Esponja verde</li>
   
-![Esponja verde](FOTOS%20PEC/esponja.jpg)
+![1ab8a05dffb90a0743b52766218ee024](https://github.com/user-attachments/assets/e2334544-646c-4eb1-ba1e-2e15aea48aea)
+
 
   <li>Malla plástica</li> 
-  ![imageenes/11b877fdc0fb6b78582d30e9d8d2c678.jpg)
+
+![11b877fdc0fb6b78582d30e9d8d2c678](https://github.com/user-attachments/assets/dd99d382-1618-4974-a28d-57a919c9d4f1)
+
   
 
   <li>Tubo de PVC (4 in)</li> 
   
-  ![Tubo PVC](![Mi imagen](imageenes/11b877fdc0fb6b78582d30e9d8d2c678.jpg)
+  ![1a3fffca50f6f488a824758d81a6b36a](https://github.com/user-attachments/assets/3bb9c7d3-4e34-4e01-a345-68fc03f5f715)
+
 
 </ul>
 
